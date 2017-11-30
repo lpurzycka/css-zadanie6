@@ -1,0 +1,14 @@
+div > p {
+    height: 100px;
+    width: 100px;
+    background-color: aquamarine;
+    }
+
+p.c, p.e, p.h {
+    background-color: fuchsia;
+}
+
+p.b , p.e {
+    opacity: 0.2;
+}
+
